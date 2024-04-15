@@ -1,0 +1,19 @@
+{
+  "name": "danish-cli-number-guessing-game",
+  "version": "1.0.0",
+  "description": "danish-cli-number-guessing-game with typescript , node js , and inquirer , made by DANISH ALI GUL ",
+  "main": "index.js",
+  "type":"module",
+  "bin":"main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DANISH ALI GUL",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
